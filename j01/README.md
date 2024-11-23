@@ -12,9 +12,8 @@ For this journal, I set out to create a smiley face that has several **different
 If we look at the UI of Aesprite, we can notice several key sections. Starting from left to right, we can identify thses by simple visual indicators.
 
 On the far left, we notice a grouping of colors and a color slider.
-In the middle we see what looks to be a canvas. And on the right we see a small section containing some text **"Layer 1"** and some brushes.
+In the middle we see what looks to be a canvas. And on the right we see a small section containing some text **"Layer 1"** and some brushes. For now, we will focus on the text that says "Layer 1".
 
-For now, we will focus on the text that says "Layer 1".
 ![AespriteUILayer0](/assets/Aesprite_Layer_View_0.png)
 
 On closer inspection, we can assume this tall rectangle contains our layers. We can assume that, because it already contains an object with a title "Layer 1". But I also notice some other buttons here; a **Green Eyeball** symbol, **Green Lock** symbol, **White Dots** symbol, what looks to be a **White Options** sign, and some kind of **White Layers** button.
