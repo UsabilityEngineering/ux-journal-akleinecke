@@ -7,6 +7,7 @@ The Layer interface demonstrates an application of **User Control and Freedom**,
 Originating via the program Fauve Matisse (later known as [Macromedia xRes](https://en.wikipedia.org/wiki/Macromedia_xRes){:target="_blank"}) by [](https://en.wikipedia.org/wiki/Fauve_Software){:target="_blank"} in 1993, the layer tool **allows for images to be drawn on top of one another**, often used to enable image manipulation or even provide a timeline for animation.
 
 For this journal, I set out to create a smiley face that has several **different expressions**, but uses the same basic head shape and color. However, before we can really get started with using the Layer tool, we first need to identify it. 
+
 ![AespriteUIOverview](/assets/Aesprite_Overview.png)
 
 If we look at the UI of Aesprite, we can notice several key sections. Starting from left to right, we can identify thses by simple visual indicators.
