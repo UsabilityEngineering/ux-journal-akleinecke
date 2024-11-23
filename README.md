@@ -14,4 +14,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Layering with Aseprite](j01/)
