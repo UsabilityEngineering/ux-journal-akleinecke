@@ -18,9 +18,7 @@ In the middle we see what looks to be a canvas. And on the right we see a small 
 
 On closer inspection, we can assume this tall rectangle contains our layers. We can assume that, because it already contains an object with a title "Layer 1". But I also notice some other buttons here; a **Green Eyeball** symbol, **Green Lock** symbol, **White Dots** symbol, what looks to be a **White Options** sign, and some kind of **White Layers** button.
 
-Unfortunately, hovering my mouse over these green buttons does not seem to yield any immediate **feedback**; what I mean is that it seems to lacks any sort of immediate and obvious effect or pop-up information to let me know what something does, so I'm not too sure what these buttons do. 
-
-However, if I look around my screen, I do eventually notice that there is some text in the bottom left that changes as I hover over buttons.
+Unfortunately, hovering my mouse over these green buttons does not seem to yield any immediate **feedback**; what I mean is that it seems to lacks any sort of immediate and obvious effect or pop-up information to let me know what something does, so I'm not too sure what these buttons do. However, if I look around my screen, I do eventually notice that there is some text in the bottom left that changes as I hover over buttons.
 
 This is what is shown when I hover my mouse over the **Green Eyeball** symbol.
 
